@@ -9,6 +9,7 @@ This application assists people, and more importantly employees of a company to 
 N/A as it runs in the browser.
 
 ## Preview
+The following animation demonstrates the applications functionality
 
 ![The Work Day Coordinator's Scheduler allows users to plan there workday out and set deadlines with colorful highlights to keep users on task and motivated.](./Assets/Images/05-third-party-apis-homework-demo.gif)
 
