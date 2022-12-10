@@ -10,7 +10,7 @@ N/A as it runs in the browser.
 
 ## Preview
 
-![The Work Day Coordinator's Scheduler allows users to plan there workday out and set deadlines with colorful highlights to keep users on task and motivated.](./Assets\Images\05-third-party-apis-homework-demo.gif)
+![The Work Day Coordinator's Scheduler allows users to plan there workday out and set deadlines with colorful highlights to keep users on task and motivated.](./Assets/Images/05-third-party-apis-homework-demo.gif)
 
 ## Usage
 
